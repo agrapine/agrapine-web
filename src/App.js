@@ -1,8 +1,13 @@
 import React from "react";
+import Bundle from "./components/Bundle";
 
 class App extends React.Component {
     render() {
-        return <h1>so... smarter each day</h1>;
+
+        return <div>
+                <h1>.|.|🐂</h1>
+                <Bundle/> 
+            </div>;
     }
 }
 
