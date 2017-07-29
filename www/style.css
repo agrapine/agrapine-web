@@ -1,0 +1,15 @@
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "segoe print";
+}
+
+body {
+    background-image: url("invite.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;    
+    background-size: 100%;
+}
